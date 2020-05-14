@@ -1,5 +1,4 @@
-# Realtime Chat Applicaiton
-![Chat Application](https://5ebd8c3c551cb5ad77dc389d--upbeat-mestorf-ee8b4a.netlify.app)
+# Realtime Chat Application 
 
 
 Setup:
